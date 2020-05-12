@@ -574,24 +574,6 @@ body {
       text-align: center;
       color: #94f0ff;
     }
-                    /* scherm tassawer 25px | 45px bij quincy */ 
-    .spammed-header{
-      position: absolute;
-      width: 313px;
-      height: 69px;
-      margin-left: 45%;
-      top: 0;
-      font-family: Roboto, sans-serif;
-      font-style: normal;
-      font-weight: normal;
-      font-size: 25px;
-      line-height: 84px;
-      display: flex;
-      align-items: center;
-      text-align: center;
-      color: #94f0ff;
-
-    }
 
     .knopje{
     background: #2980B9;  /* fallback for old browsers */
@@ -1030,77 +1012,6 @@ body {
     border-radius: 5px;
     cursor: pointer;
   }
-
-
-  /* spammed emailaddresses */ 
-  .MuiTableContainer-root {
-    background-color: transparent !important;
- 
-  }
-
-  .MuiTable-root {
-    position:absolute !important;
-    left:215px!important; 
-    width:80% !important; 
-    background-color:white !important; 
-  
-  }
-  
-  #transition-modal-title{
-    margin-left:130px;    
-    color: #c81912; 
-     
-  }
-
-  #transition-modal-description{
-    margin-left:50px; 
-    color: #c81912; 
-  }
-
-
-/* Delete buttons Spammed Emailadress*/
-  .del1{
-    position: absolute;
-    display:flex; 
-    top: 25.5rem;
-    right:11.5rem; 
-  }
-      .del2{
-        position: absolute;
-        display:flex; 
-        top: 29.5rem;
-        right:11.5rem; 
-      }
-        .del3{
-          position: absolute;
-          display:flex; 
-          top: 33.5rem;
-          right:11.5rem; 
-        }
-        .del4{
-          position: absolute;
-          display:flex; 
-          top: 37.5rem;
-          right:11.5rem; 
-        }
-      .del5{
-        position: absolute;
-        display:flex; 
-        top: 41.8rem;
-        right:11.5rem; 
-      }
-      .del6{
-        position: absolute;
-        display:flex; 
-        top: 46rem;
-        right:11.5rem; 
-      }
-    .del7{
-      position: absolute;
-      display:flex; 
-      top: 50rem;
-      right:11.5rem; 
-    }
 
   /* Footers van alle pagina's  */
   footer {
